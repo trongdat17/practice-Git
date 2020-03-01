@@ -1,4 +1,3 @@
-#include "AccCtrl.h"
 #include "stdio.h"
 
 int main() {
